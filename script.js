@@ -1,8 +1,6 @@
 
-// api
-// https://api.openweathermap.org/data/2.5/weather?q=Kolkata&appid=1a132ef17fafbd358a27709c95dcaa88
 
-const apiKey = "1a132ef17fafbd358a27709c95dcaa88";
+const apiKey = " Enter your api key ";
 
 
 async function getWeather() {
